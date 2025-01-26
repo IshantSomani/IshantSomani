@@ -24,8 +24,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshantSomani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=7F00FF" />
-  <img height="180em" src="https://github-readme-streak-stats-six-omega.vercel.app?user=IshantSomani&theme=radical&border_color=7F00FF&date_format=M%20j%5B%2C%20Y%5D" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshantSomani&theme=radical&layout=compact&border_color=7F00FF&langs_count=8" />
+  <img height="180em" src="https://github-readme-streak-stats-six-omega.vercel.app?user=IshantSomani&theme=radical&border_color=7F00FF&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 
