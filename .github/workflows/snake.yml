@@ -1,0 +1,48 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily update
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          color.snake: "#7F00FF"       # Purple snake
+          color.dots: "#7F00FF"        # Purple dots
+          color.bg: "transparent"      # Transparent background
+          color.dark.snake: "#7F00FF"  # Purple snake (dark mode)
+          color.dark.dots: "#7F00FF"   # Purple dots (dark mode)
+          color.dark.bg: "transparent" # Transparent background (dark mode)
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?theme=dark
+            dist/github-contribution-grid-snake.gif?raw=true
+        
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"
