@@ -3,7 +3,7 @@
 </div>
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ishant-somani-973492217" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48">
   </a>
