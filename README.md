@@ -28,8 +28,6 @@
   <img height="180em" src="https://github-readme-streak-stats-six-omega.vercel.app?user=IshantSomani&theme=radical&border_color=7F00FF&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
-
-
 <br>
 
 <!-- Tech Stack Section -->
