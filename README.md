@@ -25,10 +25,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
-  <br /><br />
   <img src="https://skillicons.dev/icons?i=nodejs,python,php,mongodb,mysql" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,vercel,cloudinary,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,vercel,androidstudio,cloudinary" />
 </div>
 
 <br />
