@@ -1,78 +1,99 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=7F00FF&size=40&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋;I'm+Ishant+Somani;Full+Stack+Developer;Continuous+Learner" alt="Header Typing SVG">
-</div>
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishant-somani-973492217" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48">
-  </a>
-  &#8287;
-  <a href="mailto:ishantsomani2003@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48">
-  </a>
-  <!-- &#8287;
-  <a href="https://github.com/IshantSomani" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="48" >
-  </a> -->
-</p>
-
-<br>
-
-<!-- GitHub Analytics Section -->
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshantSomani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=7F00FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshantSomani&theme=radical&layout=compact&border_color=7F00FF&langs_count=8" />
-  <img height="180em" src="https://github-readme-streak-stats-six-omega.vercel.app?user=IshantSomani&theme=radical&border_color=7F00FF&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<br>
-
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
-<img src="https://skillicons.dev/icons?i=androidstudio,java,flutter" />
-<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb" />
-<img src="https://skillicons.dev/icons?i=git,postman,figma,replit,vercel,cloudinary" />
-
-<br>
-
-<!-- Activity Graph Section -->
-## 📊 Coding Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IshantSomani&theme=github-compact&bg_color=0d1117&hide_border=true&area=true&line=7F00FF&point=7F00FF&color=FFFFFF)](https://github.com/IshantSomani)
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-    <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshantSomani/IshantSomani/blob/output/github-snake.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshantSomani/IshantSomani/blob/output/github-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/IshantSomani/IshantSomani/blob/output/github-contribution-grid-snake.gif">
-    </picture> 
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7F00FF&size=38&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+%F0%9F%91%8B;I'm+Ishant+Somani;Full+Stack+Developer;Always+building+something" alt="Typing SVG" />
 </div>
 
 <br />
 
-<!-- Trophy Section -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ishant-somani-973492217" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ishantsomani2003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IshantSomani" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
+  </a>
+</div>
+
+<br />
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,mongodb,mysql" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,vercel,cloudinary,androidstudio" />
+</div>
+
+<br />
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=IshantSomani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=7F00FF&hide_border=false" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshantSomani&theme=radical&layout=compact&border_color=7F00FF&langs_count=8&hide_border=false" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IshantSomani&theme=radical&border=7F00FF&ring=7F00FF&fire=FF6B6B&currStreakLabel=7F00FF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br />
+
+---
+
+## 📊 Coding Activity
+
+<div align="center">
+  <a href="https://github.com/IshantSomani">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshantSomani&theme=github-compact&bg_color=0d1117&hide_border=true&area=true&line=7F00FF&point=7F00FF&color=FFFFFF" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
+<br />
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IshantSomani&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=IshantSomani&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </div>
 
-<br>
+<br />
 
-<!-- Fun Elements -->
-## 💡 Fun Facts
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=IshantSomani&color=7F00FF&style=flat-square" alt="Profile Views">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshantSomani/IshantSomani/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshantSomani/IshantSomani/blob/output/github-snake-dark.svg" />
+    <img alt="GitHub contribution snake animation" src="https://github.com/IshantSomani/IshantSomani/blob/output/github-contribution-grid-snake.gif" />
+  </picture>
+</div>
+
+<br />
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=IshantSomani&color=7F00FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
