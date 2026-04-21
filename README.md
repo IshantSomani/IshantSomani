@@ -20,7 +20,6 @@
 
 <br />
 
----
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +33,6 @@
 
 <br />
 
----
 
 ## 📈 GitHub Analytics
 
@@ -52,7 +50,6 @@
 
 <br />
 
----
 
 ## 📊 Coding Activity
 
@@ -64,17 +61,6 @@
 
 <br />
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IshantSomani&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<br />
-
----
 
 ## 🐍 Contribution Snake
 
@@ -88,7 +74,6 @@
 
 <br />
 
----
 
 ## 💡 Dev Quote
 
